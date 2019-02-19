@@ -1,4 +1,3 @@
-
 def isPrime(x):
     if not isinstance(x, int): #Only natural numbers can be prime numbers.
         return False
